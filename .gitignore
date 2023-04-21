@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+bin
+lib
+pyvenv.cfg
 
 # testing
 /coverage
